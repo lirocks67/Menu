@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    font-family:cursive
+}
+h1{
+    border: 5px solid salmon;
+}
+.Appetizers{
+    border: 5px solid salmon;
+    max-width: 70%;
+    margin: auto;
+}
+.Entrees{
+border: 5px solid salmon;
+max-width: 70%;
+margin:auto;
+}
+
+.Desserts{
+    border: 5px solid salmon;
+    max-width:70%;
+    margin:auto;
+}
+
